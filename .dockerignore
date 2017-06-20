@@ -1,0 +1,2 @@
+# placeholder for removing files from the context sent to the docker daemon
+# ref. https://docs.docker.com/engine/reference/builder/#/dockerignore-file
